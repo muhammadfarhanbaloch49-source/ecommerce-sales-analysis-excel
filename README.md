@@ -110,26 +110,6 @@ Ecommerce-Sales-Analysis/
 
 ---
 
-## 📷 Dashboard Preview
-
-> Add dashboard screenshots here after uploading them to the repository.
-
-Example:
-
-```
-Screenshots/
-│── Dashboard.png
-│── Sales Dashboard.png
-```
-
-Then display them like this:
-
-```markdown
-![Dashboard](Screenshots/Dashboard.png)
-```
-
----
-
 ## 📌 Project Highlights
 
 - Interactive Excel Dashboard

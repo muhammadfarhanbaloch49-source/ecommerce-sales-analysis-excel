@@ -2,91 +2,96 @@
 
 ## 📌 Project Overview
 
-This project presents an interactive **Ecommerce Sales Analysis Dashboard** created entirely in **Microsoft Excel**. The dashboard provides valuable insights into sales performance, profit, costs, customer segments, product categories, shipping methods, and regional performance through interactive charts and KPI metrics.
+This project showcases an interactive **Ecommerce Sales Analysis Dashboard** built using **Microsoft Excel**. The dashboard provides valuable business insights by analyzing sales, profit, cost, customer segments, product categories, shipping methods, and regional performance.
 
-The objective of this project is to demonstrate Excel's data analysis and dashboard capabilities for business decision-making.
+The project demonstrates how Excel can be used for data cleaning, analysis, visualization, and business reporting through Pivot Tables, Pivot Charts, and interactive dashboards.
 
 ---
 
-## 🎯 Objectives
+## 🎯 Project Objectives
 
-* Analyze overall sales performance
-* Track profit and cost trends
-* Compare product categories and sub-categories
-* Analyze regional and city-wise performance
-* Evaluate shipping mode performance
-* Monitor sales over time using date analysis
-* Build an interactive Excel dashboard using Pivot Tables and Charts
+- Analyze overall sales performance.
+- Monitor profit and cost trends.
+- Compare sales across product categories.
+- Analyze regional and city-wise sales.
+- Evaluate shipping mode performance.
+- Track sales trends over time.
+- Create an interactive business dashboard using Microsoft Excel.
 
 ---
 
 ## 📂 Dataset Information
 
-The dataset contains **1,334+ ecommerce transactions** with the following fields:
+The dataset contains **1,334+ ecommerce records** with the following information:
 
-* Order Date
-* Ship Date
-* Ship Mode
-* Customer Name
-* Segment
-* Country
-* City
-* State
-* Region
-* Category
-* Sub-Category
-* Product Name
-* Quantity
-* Discount
-* Sales
-* Cost
-* Profit
-
----
-
-## 📈 Dashboard Features
-
-* Executive KPI Dashboard
-* Sales Analysis
-* Profit Analysis
-* Cost Analysis
-* Category Performance
-* City-wise Analysis
-* State-wise Analysis
-* Region-wise Analysis
-* Ship Mode Analysis
-* Date-wise Sales Trends
-* Interactive Pivot Tables & Charts
+- Order Date
+- Ship Date
+- Ship Mode
+- Customer Name
+- Segment
+- Country
+- City
+- State
+- Region
+- Category
+- Sub-Category
+- Product Name
+- Quantity
+- Discount
+- Sales
+- Cost
+- Profit
 
 ---
 
-## 🛠 Tools Used
+## 📊 Dashboard Features
 
-* Microsoft Excel
-* Pivot Tables
-* Pivot Charts
-* Excel Formulas
-* Data Cleaning
-* Dashboard Design
+- 📌 Executive KPI Dashboard
+- 📈 Sales Analysis
+- 💰 Profit Analysis
+- 💵 Cost Analysis
+- 📦 Category Analysis
+- 🌍 Region-wise Analysis
+- 🏙️ City-wise Analysis
+- 🗺️ State-wise Analysis
+- 🚚 Ship Mode Analysis
+- 📅 Date-wise Sales Trends
 
 ---
 
-## 📊 Key KPIs
+## 🛠️ Tools & Skills Used
 
-The dashboard highlights important business metrics such as:
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Excel Formulas
+- Data Cleaning
+- Data Analysis
+- Dashboard Design
+- Data Visualization
 
-* Total Sales
-* Total Profit
-* Total Cost
-* Order Performance
-* Category Performance
-* Regional Performance
+---
+
+## 📈 Key Performance Indicators (KPIs)
+
+The dashboard provides insights into:
+
+- Total Sales
+- Total Profit
+- Total Cost
+- Product Category Performance
+- Regional Performance
+- City Performance
+- Shipping Mode Performance
+- Sales Trends Over Time
 
 ---
 
 ## 📁 Repository Structure
 
-```text
+```
+Ecommerce-Sales-Analysis/
+│
 ├── Ecommerce Sales Analysis.xlsx
 ├── README.md
 ```
@@ -95,32 +100,51 @@ The dashboard highlights important business metrics such as:
 
 ## 🚀 Skills Demonstrated
 
-* Data Cleaning
-* Data Analysis
-* Business Intelligence
-* Dashboard Development
-* KPI Reporting
-* Data Visualization
-* Excel Analytics
+- Data Cleaning
+- Data Analysis
+- Business Intelligence
+- Dashboard Development
+- Data Visualization
+- Excel Reporting
+- KPI Analysis
 
 ---
 
 ## 📷 Dashboard Preview
 
-Add screenshots of your dashboard inside a **Screenshots** folder and display them here.
+> Add dashboard screenshots here after uploading them to the repository.
 
 Example:
 
-```text
+```
 Screenshots/
 │── Dashboard.png
-│── KPI Dashboard.png
+│── Sales Dashboard.png
+```
+
+Then display them like this:
+
+```markdown
+![Dashboard](Screenshots/Dashboard.png)
 ```
 
 ---
 
-## 📬 Contact
+## 📌 Project Highlights
+
+- Interactive Excel Dashboard
+- Business KPI Reporting
+- Sales & Profit Analysis
+- Category Performance Analysis
+- Regional Insights
+- Time-Series Sales Analysis
+
+---
+
+## 👨‍💻 Author
 
 **Muhammad Farhan Baloch**
 
-If you found this project useful, feel free to star ⭐ the repository and connect with me on LinkedIn.
+Aspiring Data Analyst passionate about transforming raw data into meaningful business insights using Excel, SQL, Power BI, and Python.
+
+⭐ If you found this project useful, please consider giving it a star.
